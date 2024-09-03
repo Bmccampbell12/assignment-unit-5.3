@@ -54,6 +54,7 @@ function findByArtist(collection, artist) {
   return matchingAlbums;
 
   }
+  
 }
 
 
